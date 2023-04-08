@@ -1,4 +1,4 @@
-### Olá. Eu sou o Igor👋
+### Olá. Eu sou o Igor👋!
 ###
 - 🌱 I'm currently learning java.
 - 📫 Contact me: igor.nacimento51@gmail.com
