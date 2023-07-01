@@ -1,6 +1,6 @@
-### Olá. Eu sou o Igor👋!
+### Hello. I'm Igor👋!
 ###
-- 🌱 I'm currently learning java.
+- 🌱 I'm currently learning Java.
 - 📫 Contact me: igor.nacimento51@gmail.com
 - 😄 Pronouns: he/him
 - 💬 Ask me about Java.
