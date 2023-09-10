@@ -4,7 +4,7 @@
 )](https://www.linkedin.com/in/igoranascimento/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igoriguu/)
 
-![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=notAvoiid&show_icons=true&theme=tokyonight)
+![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=notAvoiid&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
