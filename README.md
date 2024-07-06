@@ -1,3 +1,6 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=notavoiid&label=Profile%20views&color=0e75b6&style=flat" alt="notavoiid" /> </p>
+<h1 align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=500&color=5F5F5F&random=false&width=500&height=60&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+Hi%2C+there+%F0%9F%91%8B;+%E2%80%8E+%E2%80%8E++%E2%80%8E+%E2%80%8E+I'm+a+Backend+developer!" alt="Typing" /></h1>
+
 <div align="center">  
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=notAvoiid&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
