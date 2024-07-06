@@ -1,5 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=notavoiid&label=Profile%20views&color=0e75b6&style=flat" alt="notavoiid" /> </p>
-<h1 align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=500&color=5F5F5F&random=false&width=500&height=60&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+Hi%2C+there+%F0%9F%91%8B;+%E2%80%8E+%E2%80%8E++%E2%80%8E+%E2%80%8E+I'm+a+Backend+developer!" alt="Typing" /></h1>
+<h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=500&color=5F5F5F&random=false&width=420&height=60&lines=%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E%E2%80%8EHi%2C+there+%F0%9F%91%8B;I'm+a+Back-end+developer!" alt="Typing SVG" /></h1>
 
 <div align="center">  
   
